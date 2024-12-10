@@ -1,5 +1,5 @@
 ---
-title: Git Way (advanced)
+title: Git Way (Advanced)
 search_exclude: true
 contributors: []
 ---
