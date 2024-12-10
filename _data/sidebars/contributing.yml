@@ -9,7 +9,7 @@ subitems:
         - title: Git Way (advanced)
           url: /git_way
         - title: Markdown Cheatsheet
-          url: /git_way
+          url: /markdown_cheatsheet
   - title: Metadata Guidelines
     url: /metadata_guidelines
   - title: Page Style Guidelines
