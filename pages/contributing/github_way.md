@@ -1,5 +1,5 @@
 ---
-Title: GitHub Way
+title: GitHub Way
 search_exclude: true
 contributors: []
 --- 
