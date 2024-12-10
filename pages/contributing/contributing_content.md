@@ -7,8 +7,8 @@ title: Contributing Content
 We provide detailed guidelines on how to contribute to RSQKit, what to contribute and what not to contribute in 
 the [Contribution Guidelines](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md) that also outlines:
 - [Contributor responsibilities](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#contributor-responsibilities)
-- [Ownership of content]([https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#contributor-responsibilities](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#ownership-of-content))
-- how we [acknowledge Contributors](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#acknowledgement-of-contributions)
+- [Shared ownership of content]([https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#contributor-responsibilities](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#ownership-of-content))
+- How we [acknowledge Contributors](https://github.com/EVERSE-ResearchSoftware/RSQKit/blob/main/CONTRIBUTING.md#acknowledgement-of-contributions)
 
 ## Join the Editorial Board
 
