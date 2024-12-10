@@ -1,5 +1,5 @@
 ---
-Title: Markdown Cheatsheet
+title: Markdown Cheatsheet
 search_exclude: true
 contributors: []
 ---
