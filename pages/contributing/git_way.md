@@ -1,7 +1,8 @@
 ---
-title: Working with git
+title: Git Way (advanced)
+search_exclude: true
+contributors: []
 ---
-
 
 ## Forking - branching - changing - pushing - PR
 
