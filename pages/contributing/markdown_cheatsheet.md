@@ -1,6 +1,7 @@
 ---
 Title: Markdown Cheatsheet
 search_exclude: true
+contributors: []
 ---
 
 We use Markdown files to manage the content on RDMkit in a structured and easy to edit way. For more information about Markdown, please check the [Markdown guidelines](https://guides.github.com/features/mastering-markdown/). If you want more information about the specific markdown flavor we use, Kramdown, please checkout the [Kramdown documentation](https://kramdown.gettalong.org/parser/kramdown.html).
