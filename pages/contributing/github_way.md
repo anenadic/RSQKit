@@ -1,5 +1,7 @@
 ---
 Title: GitHub Way
+search_exclude: true
+contributors: []
 --- 
 
 ---
