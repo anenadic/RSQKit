@@ -39,6 +39,12 @@ Note that you do not have to contribute via GitHub to be included as a Contribut
 (e.g. email, internal project documents used to collect information, etc.) are accepted.
 Email the [Editorial Board][contact] with a short explanation of your contributions and you will be appropriately acknowledged. 
 
+If you decide to provide your contributions ising Git and GitHub, we have some gudies to help with that:
+
+- [Contributing via GitHub](https://anenadic.github.io/RSQKit/github_way)
+- [Contributing using Git from commandline (advanced)](https://anenadic.github.io/RSQKit/git_way)
+- [Markdown Cheatsheet](https://anenadic.github.io/RSQKit/git_way) (to help with contributing to pages in RSQKit which are written in Markdown)
+
 ### What to Contribute
 
 At this moment, we welcome:
