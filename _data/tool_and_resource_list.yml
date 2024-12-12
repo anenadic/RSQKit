@@ -6,7 +6,7 @@
 # what else - relevant training pages, software guality indicators?
 
 # Example:
-# - id: docker
-#   name: Docker
+# - id: "docker"
+#   name: "Docker"
 #   description: "Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers."
-#   url: https://www.docker.com/
+#   url: "https://www.docker.com/"
