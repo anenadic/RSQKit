@@ -1,0 +1,12 @@
+# List of training resources, in the following format (all fields are strings):
+# - id: # mandatory, unique internal identifier
+#    name: # mandatory, name of the training resource
+#    description: # mandatory, short description of the training resource
+#    url: # mandatory, URL for the training resource
+# This is identical to tools, so do we need a separate daya file?
+
+# Example:
+# - id: "swc-git-course"
+#   name: "Software Carpentry's 'Version control with Git'"
+#   description: "Introductory course on Git"
+#   url: "https://swcarpentry.github.io/git-novice/"
