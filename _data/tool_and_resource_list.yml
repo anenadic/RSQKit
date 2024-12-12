@@ -1,4 +1,4 @@
-# List of tools, in the following format:
+# List of tools, in the following format (all fields are strings):
 # - id: # mandatory, unique internal identifier
 #    name: # mandatory, name of the tool
 #    description: # mandatory, short description of the tool
