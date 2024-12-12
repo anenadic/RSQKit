@@ -3,10 +3,9 @@
 #    git: github id # required, used as unique internal id
 #    email: email adress # optional
 #    orcid: orcid id # optional
-#    role: the role of the contributor # optional, existing roles are 'editor' (for Editori Board Members) or leave empty for general Contributors
+#    role: the role of the contributor # optional, existing roles are 'editor' (for Editorial Board Members) or leave empty for general Contributors
 #    affiliation: affiliation # optional
 #    image_url: absolute path to image (defaults to avatar image from GitHub) 
-# what else - web_url, linkedin? or that may be too much?
 
 # Example:
 # Bert Droesbeke:
