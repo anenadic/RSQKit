@@ -3,6 +3,7 @@
 #    name: # mandatory, name of the tool
 #    description: # mandatory, short description of the tool
 #    url: # mandatory, URL for the tool
+#    indicators: # list, optional
 # what else - relevant training pages, software guality indicators?
 
 # Example:
