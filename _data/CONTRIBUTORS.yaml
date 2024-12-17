@@ -48,7 +48,7 @@ Shraddha Bajare:
 Aleksandra Nenadic:
     git: anenadic
     orcid: 0000-0002-2269-3894
-    affiliation: The University of Manchester / Software Sustainability Institute
+    affiliation: ["The University of Manchester", "Software Sustainability Institute"]
     role: editor
 Shoaib Sufi:
     git: shoaibsufi
